@@ -36,7 +36,7 @@
   ],
   "dependencies": {
     "can-bind": "<2.0.0",
-    "can-define": "^2.6.0",
+    "can-define": "^2.7.6",
     "can-deparam": "^1.0.1",
     "can-diff": "^1.0.4",
     "can-dom-events": "^1.1.0",
